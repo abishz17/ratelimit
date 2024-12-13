@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	ratelimit "ratelimiter"
 	"time"
+
+	ratelimit "github.com/abishz17/ratelimit"
 )
 
 func main() {
