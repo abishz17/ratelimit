@@ -4,6 +4,7 @@ A simple  rate limiting library for Go using the Sliding Window algorithm. Contr
 # Installation
 ```bash
 go get github.com/abishz17/ratelimit
+ ```
 
 ```go
 package main
