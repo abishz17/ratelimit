@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yourusername/ratelimit"
+	"github.com/abishz17/ratelimit"
 )
 
 func main() {
